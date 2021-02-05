@@ -5,4 +5,4 @@ Blender is the free and open source 3D creation suite. It supports the entirety 
 
 In this repository I will be posting my attempts to learn Blender. 
 
-### 1 attempt *character*
+### Attempt 1  *character*
