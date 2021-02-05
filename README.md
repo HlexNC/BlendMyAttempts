@@ -6,4 +6,6 @@ Blender is the free and open source 3D creation suite. It supports the entirety 
 In this repository I will be posting my attempts to learn Blender. 
 
 ---
-### Attempt 1 
+### Attempt 1  `character`
+My first attempt was to create a humanlike character. My plan is to attempt to create a 3D model, and try to create a walking animation for it. 
+>Day 1.  For now its going well. I have created a doll like model. Now I just need to add a face and some clothes.
