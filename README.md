@@ -11,4 +11,8 @@ My first attempt was to create a humanlike character. My plan is to attempt to c
 >Day 1.  For now its going well. I have created a doll like model. Now I just need to add a face and some clothes.
 
 >Day 2.  I have made progress since yesterday In my character creation journey. Today I took a different approach In character modeling.
+
+|Day 1 character is on the right|Day 2  is on the left|
+|--------------------|-------------------------------|
+|        -->         |              <--              |
 <img src="https://user-images.githubusercontent.com/66517969/107114681-ce36e380-6878-11eb-8074-eb1116b97df0.png" width="500">
