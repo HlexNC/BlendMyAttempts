@@ -8,9 +8,11 @@ In this repository I will be posting my attempts to learn Blender.
 ---
 ### Attempt 1  `character`
 My first attempt was to create a humanlike character. My plan is to attempt to create a 3D model, and try to create a walking animation for it. 
->Day 1.  For now its going well. I have created a doll like model. Now I just need to add a face and some clothes.
+#### Day 1.
+For now its going well. I have created a doll like model. Now I just need to add a face and some clothes.
 
->Day 2.  I have made progress since yesterday In my character creation journey. Today I took a different approach In character modeling.
+#### Day 2.
+I have made progress since yesterday In my character creation journey. Today I took a different approach In character modeling.
 
 |Day 1 character is on the right|Day 2  is on the left|
 |--------------------|-------------------------------|
