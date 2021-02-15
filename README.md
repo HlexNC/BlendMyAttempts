@@ -22,7 +22,7 @@ I have made progress since yesterday In my character creation journey. Today I t
 ***
 ### Attempt 2  `donut`
 
-#### Day 4-5. 
+#### Day 4-6. 
 On day 3, in my recommendations, I saw a video by SouthernShotty "Get Good at Blender 3D in 2021!". There SouthernShotty told us about "The Blender Pathway" (just like in Unity but Blender).
 
 [<img src="https://user-images.githubusercontent.com/66517969/107887440-3b9ce100-6f17-11eb-9ab9-a4f4bf72b8a9.png"> ](https://www.youtube.com/watch?v=RHLn7gT6cpQ&t=477s)
@@ -35,7 +35,7 @@ The first step (for beginners) is to go through 4 levels of Blender Beginner Tut
 [<img src="https://user-images.githubusercontent.com/66517969/107887513-bb2ab000-6f17-11eb-8f03-d21ea40f010a.png" width="300">](https://www.youtube.com/channel/UCOKHwx1VCdgnxwbjyb9Iu1g)
 ---
 
-#### Day 6.
+#### Day 7.
 Finished the 2nd level of Blender Beginner Tutorial". The donut is complete, and I'm happy with the result.
 <img src="https://user-images.githubusercontent.com/66517969/107958655-5fae0000-6fb3-11eb-80ba-17732e561f3b.png" width="600">
 
