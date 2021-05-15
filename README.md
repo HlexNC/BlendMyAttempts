@@ -37,11 +37,14 @@ The first step (for beginners) is to go through 4 levels of Blender Beginner Tut
 
 #### Day 7.
 Finished the 2nd level of Blender Beginner Tutorial". The donut is complete, and I'm happy with the result.
+
 <img src="https://user-images.githubusercontent.com/66517969/107958655-5fae0000-6fb3-11eb-80ba-17732e561f3b.png" width="400">
 <img src="https://user-images.githubusercontent.com/66517969/118372266-79161680-b5b9-11eb-86f2-6da4bc59ede4.png" width="600">
 
 #### Day 8 now. 
 I'm back. I had lots of homework (still have lots of it) but I really want to do unity and blender because it's always fun and not boring 😅. Just finished modeling a cup that I'm happy with 😄
+
 <img src="https://user-images.githubusercontent.com/66517969/117893413-06f4b780-b2c3-11eb-9980-a72b30e470b3.jpg" width="400">
 <img src="https://user-images.githubusercontent.com/66517969/118372262-76b3bc80-b5b9-11eb-9bfd-dc9071f54fb8.png" width="600">
+
 ###### By Hlex
