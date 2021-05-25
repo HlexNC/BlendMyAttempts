@@ -44,8 +44,13 @@ Finished the 2nd level of Blender Beginner Tutorial". The donut is complete, and
 #### Day 8 now. 
 I'm back. I had lots of homework (still have lots of it) but I really want to do unity and blender because it's always fun and not boring 😅. Just finished modeling a cup that I'm happy with 😄
 
+`5/12/2021`
 <img src="https://user-images.githubusercontent.com/66517969/117893413-06f4b780-b2c3-11eb-9980-a72b30e470b3.jpg" width="400">
+
+`5/15/2021`
 <img src="https://user-images.githubusercontent.com/66517969/118372262-76b3bc80-b5b9-11eb-9bfd-dc9071f54fb8.png" width="600">
+
+`5/23/2021`
 <img src="https://user-images.githubusercontent.com/66517969/119179068-2b952000-ba77-11eb-9f2b-5436013b2012.png" width="600">
 
 ***
