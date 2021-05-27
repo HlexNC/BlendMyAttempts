@@ -44,33 +44,33 @@ Finished the 2nd level of Blender Beginner Tutorial". The donut is complete, and
 #### Day 8 now. 
 I'm back. I had lots of homework (still have lots of it) but I really want to do unity and blender because it's always fun and not boring 😅. Just finished modeling a cup that I'm happy with 😄
 
-`5/12/2021`
+##### 5/12/2021
 <img src="https://user-images.githubusercontent.com/66517969/117893413-06f4b780-b2c3-11eb-9980-a72b30e470b3.jpg" width="400">
 
-`5/15/2021`
+##### 5/15/2021
 <img src="https://user-images.githubusercontent.com/66517969/118372262-76b3bc80-b5b9-11eb-9bfd-dc9071f54fb8.png" width="600">
 
-`5/23/2021`
+##### 5/23/2021
 <img src="https://user-images.githubusercontent.com/66517969/119179068-2b952000-ba77-11eb-9f2b-5436013b2012.png" width="600">
 
 ***
-`5/24/2021`
+##### 5/24/2021
 <img src="https://user-images.githubusercontent.com/66517969/119277031-0561b280-bc26-11eb-9d57-398651fa742e.png" width="650">
 
-`5/25/2021`
+##### 5/25/2021
 <img src="https://user-images.githubusercontent.com/66517969/119542213-f1d65900-bd97-11eb-9aec-9e743ec4e3eb.jpg" width="650">
 
-`5/26/2021 Final Render`
+##### 5/26/2021 Final Render
 <img src="https://user-images.githubusercontent.com/66517969/119711797-988a2a80-be68-11eb-8847-785a017c48c3.gif" width="600">
 
 ***
 <img src="https://user-images.githubusercontent.com/66517969/119824819-f9fcd880-befe-11eb-8119-66aef4be37f1.png" width="250">
 On Instagram, I've recently discovered @polygonrunway, and I liked his miniature 3d models, and then I discovered that he has online courses! This model I have created following his free 3D illustrator course.
 
-`5/27/2021`
+##### 5/27/2021
 <img src="https://user-images.githubusercontent.com/66517969/119823922-02084880-befe-11eb-97f1-8c962c70811e.png" width="600">
 
-`5/27/2021`
+##### 5/27/2021
 <img src="https://user-images.githubusercontent.com/66517969/119823501-932aef80-befd-11eb-9b61-758c271abf2e.gif" width="600">
 
 
