@@ -63,4 +63,14 @@ I'm back. I had lots of homework (still have lots of it) but I really want to do
 `5/26/2021 Final Render`
 <img src="https://user-images.githubusercontent.com/66517969/119711797-988a2a80-be68-11eb-8847-785a017c48c3.gif">
 
+***
+`5/27/2021`
+<img src="https://user-images.githubusercontent.com/66517969/119823922-02084880-befe-11eb-97f1-8c962c70811e.png">
+<img src="https://user-images.githubusercontent.com/66517969/119823501-932aef80-befd-11eb-9b61-758c271abf2e.gif">
+
+
+
+
+
+
 ###### By Hlex
