@@ -77,7 +77,7 @@ On Instagram, I've recently discovered @polygonrunway, and I liked his miniature
 ### Attempt 4  `Chair 🪑` 
 One of Blender Guru's tutorials... The chair modelling tutorial is about how you can create a chair in blender 😂👍
 
-<img src="https://user-images.githubusercontent.com/66517969/120041457-f22d5900-c010-11eb-8abf-05fe142679bf.png" width="300">
+[<img src="https://user-images.githubusercontent.com/66517969/120041457-f22d5900-c010-11eb-8abf-05fe142679bf.png" width="300">](https://www.youtube.com/watch?v=Hf2esGA7vCc&list=PLjEaoINr3zgEL9UjPTLWQhLFAK7wVaRMR)
 
 
 
