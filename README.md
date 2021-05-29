@@ -1,4 +1,4 @@
-# BlendMyAttempts
+# 👉BlendMyAttempts
 Blender is the free and open source 3D creation suite. It supports the entirety of the 3D pipeline—modeling, rigging, animation, simulation, rendering, compositing and motion tracking, video editing and 2D animation pipeline.
 
 <img src="https://user-images.githubusercontent.com/66517969/107048266-cecc6d00-67d9-11eb-827b-10511b45ebe2.png" width="250">
@@ -6,7 +6,7 @@ Blender is the free and open source 3D creation suite. It supports the entirety 
 In this repository I will be posting my attempts to learn Blender. 
 
 ---
-### Attempt 1  `character 🧍`
+## 🧍Attempt 1  `character`
 My first attempt was to create a humanlike character. My plan is to attempt to create a 3D model, and try to create a walking animation for it. 
 #### Day 1.
 For now its going well. I have created a doll like model. Now I just need to add a face and some clothes.
@@ -20,7 +20,7 @@ I have made progress since yesterday In my character creation journey. Today I t
 <img src="https://user-images.githubusercontent.com/66517969/107114681-ce36e380-6878-11eb-8074-eb1116b97df0.png" width="300">
 
 ---
-### Attempt 2  `donut 🥯`
+## 🥯Attempt 2  `donut`
 
 #### Day 4-6. 
 On day 3, in my recommendations, I saw a video by SouthernShotty "Get Good at Blender 3D in 2021!". There SouthernShotty told us about "The Blender Pathway" (just like in Unity but Blender).
@@ -64,7 +64,7 @@ I'm back. I had lots of homework (still have lots of it) but I really want to do
 <img src="https://user-images.githubusercontent.com/66517969/119711797-988a2a80-be68-11eb-8847-785a017c48c3.gif" width="600">
 
 ---
-### Attempt 3  `SushiRolls 🍣` 
+## 🍣Attempt 3  `SushiRolls` 
 <img src="https://user-images.githubusercontent.com/66517969/119824819-f9fcd880-befe-11eb-8119-66aef4be37f1.png" width="250">
 On Instagram, I've recently discovered @polygonrunway, and I liked his miniature 3d models, and then I discovered that he has online courses! This model I have created following his free 3D illustrator course.
 
@@ -74,7 +74,7 @@ On Instagram, I've recently discovered @polygonrunway, and I liked his miniature
 ##### 5/27/2021
 <img src="https://user-images.githubusercontent.com/66517969/119823501-932aef80-befd-11eb-9b61-758c271abf2e.gif" width="600">
 
-### Attempt 4  `Chair 🪑` 
+## 🪑Attempt 4  `Chair` 
 One of Blender Guru's tutorials... The chair modelling tutorial is about how you can create a chair in blender 😂👍
 
 [<img src="https://user-images.githubusercontent.com/66517969/120041457-f22d5900-c010-11eb-8abf-05fe142679bf.png" width="300">](https://www.youtube.com/watch?v=Hf2esGA7vCc&list=PLjEaoINr3zgEL9UjPTLWQhLFAK7wVaRMR)
