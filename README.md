@@ -80,6 +80,8 @@ One of Blender Guru's tutorials... The chair modelling tutorial is about how you
 [<img src="https://user-images.githubusercontent.com/66517969/120041457-f22d5900-c010-11eb-8abf-05fe142679bf.png" width="300">](https://www.youtube.com/watch?v=Hf2esGA7vCc&list=PLjEaoINr3zgEL9UjPTLWQhLFAK7wVaRMR)
 
 
+<img src="https://user-images.githubusercontent.com/66517969/120933418-c2620d80-c702-11eb-8717-789ba149a166.gif" width="360">
+
 
 
 
