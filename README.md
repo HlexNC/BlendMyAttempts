@@ -100,6 +100,8 @@ On Instagram, I've recently discovered @polygonrunway, and I liked his miniature
 
 <img src="https://user-images.githubusercontent.com/66517969/119823501-932aef80-befd-11eb-9b61-758c271abf2e.gif" width="600">
 
+* * *
+
 ## 🪑Attempt 4  `Chair`
 
 One of Blender Guru's tutorials... The chair modelling tutorial is about how you can create a chair in blender 😂👍
@@ -108,8 +110,41 @@ One of Blender Guru's tutorials... The chair modelling tutorial is about how you
 
 <img src="https://user-images.githubusercontent.com/66517969/120933418-c2620d80-c702-11eb-8717-789ba149a166.gif" width="360">
 
+* * *
+
 ## Attempt 5 🎃`Halloween`👻
 
 After a long time of trying to farm school grades, I'm back!!😅 I have modelled and rendered a lot of really good models. I have been posting them in showcases in the official discord community and in my Instagram: [@hlexnc](src="https://www.instagram.com/hlexnc/"). There I created a community of new and veteran Blender3d users, it was fun to meet and to communicate with all of them. But all good things must come to end😭, or should they? Atm, because my account has been deactivated, I'm trying to get in touch with Facebook (owners of Instagram) and get my account reactivated. But I will continue creating new models and render, and I will be posting all of them here. I have lots of really good 3D model coming up  🦾😀
+
+* * *
+
+##### I need more time, so enjoy time!⌚
+<img src="https://user-images.githubusercontent.com/66517969/138546490-d2b88add-441d-4a6d-bb76-7db2f3a0f385.png" width="600">
+
+<img src="https://user-images.githubusercontent.com/66517969/138546504-012b6aa1-ea4b-4398-8b58-6ca9c8c942de.png" width="600">
+
+* * *
+
+##### Avocadon’t get me started.🥑🌳🌱
+<img src="https://user-images.githubusercontent.com/66517969/138546551-44e1e67e-62f3-4176-a82e-075d412c3893.png" width="600">
+
+* * *
+
+##### Pie can feel it in my bones. The Fall is in air.🍁🍂🌽🎃
+<img src="https://user-images.githubusercontent.com/66517969/138546841-d0cfbc96-3291-4635-ad43-6d5b08b3ea23.png" width="600">
+
+***
+
+##### Pun-kin patch!! 🎃 🍬 👻
+<img src="https://user-images.githubusercontent.com/66517969/138547508-92e79415-d145-47f7-9dee-988b76624a40.png" width="600">
+
+<img src="https://user-images.githubusercontent.com/66517969/138547512-f62f4ed9-18df-4483-8e76-966b6c96b3cd.png" width="600">
+
+* * *
+
+##### Purranormal Cativity.😹 🍬 👻
+<img src="https://user-images.githubusercontent.com/66517969/138547884-5d35ce3f-24e7-4fca-89ef-2a44eff45de8.png" width="600">
+
+<img src="https://user-images.githubusercontent.com/66517969/138547893-8bed62ce-cf9f-4035-9b73-eee05572001f.png" width="600">
 
 ###### By Hlex
